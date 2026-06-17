@@ -1,7 +1,15 @@
 # 🛒 Customer Behavior Analysis
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat&logo=python)
+![MySQL](https://img.shields.io/badge/MySQL-8.0+-orange?style=flat&logo=mysql)
+![PowerBI](https://img.shields.io/badge/PowerBI-Latest-yellow?style=flat&logo=powerbi)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat)
+
 An end-to-end Data Analytics project analyzing customer shopping behavior
 using Python, MySQL, and Power BI.
+
+<img width="2152" height="1146" alt="Dashboard" src="https://github.com/user-attachments/assets/c129666d-73cf-42f4-af0b-78530f6fca18" />
+
 
 ## 📋 Problem Statement
 A leading retail company wants to understand customer shopping behavior
